@@ -11,9 +11,9 @@ foundation in Java programming.
 
 ## Folder Structure
 src/
-└── com/
-└── practice/
-└── beginner/
+com/
+practice/
+beginner/
 
 
 ---
